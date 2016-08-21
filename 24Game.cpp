@@ -19,7 +19,7 @@ int main()
 	system("color f1");
 	string filename = "24Game.in";
 	ifstream filein;
-	ofstream fileout("24Game.txt");
+	ofstream fileout("24Game.out");
 	filein.open(filename);
 	while (true)
 	{
