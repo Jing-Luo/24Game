@@ -30,4 +30,4 @@ BTW, I find among the 13*13*13*13 = 28561 different inputs, there is no answer f
 
 示例：
 
-![](\demo.jpg)
+![image](\demo.jpg)
